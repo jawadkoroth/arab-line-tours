@@ -12,6 +12,11 @@
     <name>Arab Line Tours</name>
     <description>Static website for Arab Line Tours</description>
 
+         <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+</properties>
+
     <build>
         <plugins>
         <!-- Maven Compiler Plugin to set Java version -->
