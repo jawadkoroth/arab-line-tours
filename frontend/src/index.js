@@ -1,4 +1,3 @@
-echo 'import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import "./i18n";
@@ -8,4 +7,4 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-);' > frontend/src/index.js
+);
